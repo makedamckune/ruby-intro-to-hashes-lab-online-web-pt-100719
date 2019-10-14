@@ -1,5 +1,9 @@
-def new_hash
-  
+
+  def new_hash
+  value = {}
+  node_list.each {|node| value[node] = random_point }
+  return value
+end
 
 end
 
