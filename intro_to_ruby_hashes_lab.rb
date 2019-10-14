@@ -1,5 +1,5 @@
 def new_hash
-  celebrites_hall = []
+  new_hash = []
 
 end
 
